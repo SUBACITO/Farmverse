@@ -21,6 +21,13 @@ Algorand SDK for Unity
 
 </h1>
 
+### Asset Package
+
+Each release contains a `.unitypackage` package file that can be installed into a project.
+
+1. [Download the latest release.](https://github.com/CareBoo/unity-algorand-sdk/releases/latest)
+2. [Import the `.unitypackage` file into your project.](https://docs.unity3d.com/Manual/AssetPackagesImport.html)
+
 ### Connect To Algorand!
 
 ```csharp
